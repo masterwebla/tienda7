@@ -1,0 +1,28 @@
+body{
+	background: #CEDAEF;
+}
+/* Contenidos del Admin------- */
+.contenidos
+{
+    background:#fff;
+    border-radius:1em;
+    margin:1em;
+    min-height:300px;
+    padding:1em;
+}
+.icon-home
+{
+	font-size:60px;
+	margin:20px;
+}
+
+/* Footer------- */
+footer{
+	background: #414242;
+	text-align: center;
+	padding: 20px;
+}
+footer p{
+	color: #fff;
+	text-align: center;
+}
